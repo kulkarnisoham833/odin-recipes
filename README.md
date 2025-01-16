@@ -1,1 +1,1 @@
-A recipe
+A library of recipes
